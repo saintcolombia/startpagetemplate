@@ -6,8 +6,11 @@
 .anchorsection{
     display: flex;
 }
-.anchorsection-text{
-}
+
 .anchorsection-icon{
     font-size: large;
+}
+.home{
+    color: black;
+    margin: 25%;
 }
