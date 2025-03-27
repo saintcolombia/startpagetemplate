@@ -9,12 +9,15 @@
     border: 2px solid black;
     background: red;
     position: fixed;
+    
 }
 .banner-div{
     width: 100%;
     height: 640px;
     border: 2px solid black;
     background-color: red;
+    
+    
 }
 .anchorsection{
     width: 100%;
@@ -25,7 +28,8 @@
 .mugsection{
     width: 100%;
     height: 630px;
-    border: 4px solid yellow
+    border: 4px solid yellow;
+    background-color: lightgray;
 }
 .Qoute{
     width: 100%;
@@ -38,4 +42,56 @@
     height: 350px;
     border: 2px;
     background-color:  purple;
+}
+.banner-div h1{
+    font-size: 50px;
+    font-weight: 100;
+    margin-top: 150px;
+    color: white;
+    text-align: center;
+ 
+}
+.banner-div p{
+    font-size: 25px; 
+    font-weight: 10;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+.banner-div button{
+    font-size: 20px;
+    font-weight: 10;
+    text-decoration-color: white;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+}
+.banner-div button:hover{
+    background-color: gray;
+    color: black;
+}
+.mugsection h1{
+font-size: 50px;
+margin-top: 35px;
+text-align: center;
+}
+.mugsection h2{
+  font-size: 20px; 
+  text-align: center;
+  width: 45%;
+  margin: 0 auto;
+  padding: 20px;
+  overflow-wrap: break-word;
+}
+.mugsection h3{
+    font-size: 15px;
+    text-align: center;
+    width: 40%;
+    padding: 15px;
+    overflow-wrap: break-word;
+    margin-left: 30%;
+    
 }
