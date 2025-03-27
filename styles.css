@@ -84,7 +84,7 @@
 font-size:20px;
 margin-top: 35px;
 text-align: center;
-
+margin-left: 50%;
 }
 .mugsection h2{
   font-size: 20px; 
@@ -101,6 +101,6 @@ text-align: center;
     width: 40%;
     padding: 15px;
     overflow-wrap: break-word;
-    
+    margin-left: 50%;
 }
 
